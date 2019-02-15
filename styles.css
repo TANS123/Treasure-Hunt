@@ -1,0 +1,56 @@
+#clown {
+    display: none;
+}
+#pic {
+    display: none;
+}
+#secpic {
+    display: none;
+}
+#piccc {
+    display: none;
+}
+#puppies {
+    display: none;
+}
+#mouse {
+    display: none;
+}
+#curtain {
+    display: none;
+}
+#button {
+    display: none;
+}
+#piccc {
+    width: 500px;
+}
+#clown {
+    width: 800px;
+}
+#clown {
+    border: groove 30px red;
+}
+#secpic {
+    border: solid pink 50px;
+}
+#text {
+    color: aqua;
+    font-size: 50px;
+}
+#puppies {
+    color: aqua;
+    font-size: 50px;
+}
+h1 {
+    color: purple;
+    font-size: 80px;
+}
+#mouse {
+    color: aqua;
+    font-size: 50px;
+}
+#button {
+    color: blue;
+    font-size: 35px;
+}
